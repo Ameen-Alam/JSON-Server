@@ -18,3 +18,13 @@ Run JSON Server in your local machine
 
 ![json-server](json-server.png)
 
+
+# Fetch API in React Hooks
+
+Download this project and try all examples
+
+[Project](https://github.com/Ameen-Alam/PIAIC-React-Assignment/blob/master/Starter-kit-1/src/component/about/index.js)
+
+
+
+[Project README File](https://github.com/Ameen-Alam/PIAIC-React-Assignment/blob/master/README.md)
